@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Plot Skill"
+  short_description: "Warm pastel Matplotlib publication figures"
+  default_prompt: "Use $paper-plot-skill to turn this analysis into a publication-ready Matplotlib figure."
